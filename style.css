@@ -8,10 +8,7 @@
 }
 
 body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 100vh;
+	padding: 10px;
 }
 
 li {
@@ -23,8 +20,6 @@ a {
 }
 
 .container {
-	max-width: 991px;
-	width: 100%;
 	background: #fff;
 	border-radius: 8px;
 	overflow: hidden;
